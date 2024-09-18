@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731371928418",
+    "project_id": "sleep-selection",
+    "storage_bucket": "sleep-selection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731371928418:android:f6451a35e78789fe45ca3b",
+        "android_client_info": {
+          "package_name": "com.example.sleep_ocr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexJstibnY25_5DYLG8dB8A7YGfdhPPJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
